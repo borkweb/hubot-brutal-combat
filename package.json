@@ -1,0 +1,30 @@
+{
+	"name": "hubot-brutal-combat",
+	"version": "1.0.0",
+	"description": "Make the bot brutally attack someone",
+	"main": "index.coffee",
+	"author": {
+		"name": "Matthew Batchelder",
+		"email": "borkweb@gmail.com",
+		"url": "https://github.com/borkweb"
+	},
+	"keywords": [
+		"hubot",
+		"hubot-scripts",
+		"combat",
+		"attack"
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/hubot-scripts/hubot-brutal-combat/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hubot-scripts/hubot-brutal-combat.git"
+	},
+	"bugs": {
+		"url": "https://github.com/hubot-scripts/hubot-brutal-combat/issues",
+	},
+	"dependencies": {
+		"hubot": ">= 2.4.0",
+		"coffee-script": "~1.6"
+	},
+}
